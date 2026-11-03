@@ -1,0 +1,144 @@
+Study Design Document
+ 
+1)   Purpose of study 
+The purpose of this study is to investigate how different media modalities—short video, audio-only podcast, and text—affect individuals’ subjective perception of time. Specifically, the study examines whether variations in immersion and engagement across media types lead to systematic distortions in perceived duration, referred to as temporal bias. By comparing time estimates after exposure to matched content presented in different modalities, the study aims to better understand how media format influences attentional absorption, engagement, and awareness of time.
+Research questions: 
+RQ1: Does subjective time perception differ significantly across different media types (short video, audio-only podcast, and text) when exposure duration is held constant?
+RQ2: Do levels of immersion and engagement differ across media modalities?
+RQ3: Is temporal bias (overestimation or underestimation of elapsed time) associated with self-reported immersion and engagement measures?
+Hypothesis:
+H1: Media that are more immersive and engaging will make people feel that less time has passed, compared to media that are less immersive.
+
+2)   Motivation and Related Work
+Human perception of time is not objective but is shaped by cognitive processes such as attention, engagement, and memory. Research in psychology has consistently shown that perceived duration depends on how attentional resources are distributed during an activity rather than on physical time alone. Block (2014) provides a comprehensive review demonstrating that attention and memory play central roles in time perception, with higher attentional engagement often leading to distortions in subjective duration. When attention is focused on task-related content, fewer cognitive resources are available for tracking time, resulting in altered duration judgments.
+In interactive and media-rich environments, immersion has been identified as a key factor influencing time perception. Sanders and Cairns (2010) investigated the relationship between immersion and time perception in videogames and showed that higher immersion is associated with reduced awareness of time passing. Their findings suggest that immersive experiences can compress perceived time, supporting the idea that engagement and absorption modulate temporal experience. Although their work focuses on gaming contexts, the underlying mechanisms are relevant to other media formats that vary in sensory richness and engagement.
+Relatedly, Michailidis (2018) examined flow and immersion in video games and highlighted time distortion as a core characteristic of immersive experiences. The study reinforces the notion that highly engaging media environments can alter subjective time awareness through heightened involvement and sustained attention.
+While these studies provide strong evidence that immersion and engagement influence time perception, most prior work has focused on interactive or gaming contexts. There is comparatively less research directly comparing everyday media formats such as video, audio, and text under controlled exposure conditions. This study is motivated by the need to extend these insights to common media modalities and to examine how differences in immersion and engagement relate to temporal bias in a controlled experimental setting.
+
+3)   Participant profile
+Participants are:
+•	Adults aged 18 years or older
+•	Recruited from a general, non-clinical population
+•	Participation is voluntary, with the right to withdraw at any time
+•	Normal or corrected-to-normal vision, sufficient for video and text stimuli
+•	Normal hearing, sufficient for audio and video stimuli
+•	No known neurological or cognitive impairments that may affect attention or time perception
+•	No diagnosed reading or language disorders that could interfere with text comprehension
+•	Adequate language proficiency in the language used for the study materials
+•	No severe visual, auditory, or attentional difficulties
+•	General familiarity with digital media (video, audio, and text), typical of everyday media users
+•	Media consumption habits (e.g., frequency of video, podcast, or text use) will be collected to assess potential bias
+•	Familiarity with the content topic will be self-reported after each condition
+•	Participants are not required to have prior experience with experimental studies 
+
+4)   Compensation plan
+The participants will not be remunerated. 
+
+5) Variables:
+Independent variables	Dependent variables	Confounding variables 
+Media modality (Type of media presented to the participant - Short video, audio-only podcast, and text-based content)	•	Perceived duration
+•	Temporal bias
+•	Immersion and engagement scores
+•	Confidence in time estimation
+•	Mind-wandering
+•	Arousal level	•	Prior familiarity with the content topic
+•	Individual differences in media consumption habits
+•	Reading speed,
+•	Fatigue or boredom 
+•	Consumption of caffeine before the experiment
+
+6)   Methodology
+
+This study employs a within-subjects experimental design conducted entirely through an online web-based experimental tool. The aim is to examine how different media modalities influence subjective time perception, immersion, and temporal bias under controlled presentation conditions. A within-subjects approach is chosen to allow direct comparison across media types while reducing variability due to individual differences.
+Study Conditions
+The experiment consists of three conditions defined by media modality:
+1.	Short video
+2.	Audio-only podcast
+3.	Text-based content
+All stimuli convey similar informational content and are presented in English, which is the common language used throughout the experiment. The video and audio stimuli have a fixed duration of three minutes. For the text condition, participants are given access to the full text and are allowed to read at their natural reading pace; therefore, the actual reading time may vary across participants. The web-based tool automatically records the reading duration, allowing individual reading speed to be calculated and considered during analysis. Playback controls are disabled, and all time-related cues are hidden.
+The order of conditions is counterbalanced automatically by the system to minimize order effects.
+
+Participants
+The study aims to recruit adult participants from a general population. While a minimum of 12-15 participants is recommended for initial analysis, the system supports unlimited participants to allow for larger sample sizes and more reliable results. Participants complete the experiment remotely using their own devices and internet connection and are required to have sufficient proficiency in English to understand the study materials.
+Procedure and Phases
+The study proceeds through the following phases within the web-based tool:
+1.	Information and consent: Participants read the study information and provide informed consent digitally.
+2.	Demographic questionnaire: Participants report age, media consumption habits, and recent caffeine consumption.
+3.	Experimental phase: Participants complete three media exposure sessions, one for each condition. Video and audio sessions run for exactly three minutes, while the text session ends when the participant finishes reading.
+4.	Post-exposure assessment: After each condition, participants estimate the elapsed time in seconds and complete self-report measures assessing immersion, engagement, confidence in time estimation, mind-wandering, arousal, and familiarity with the content.
+5.	Debriefing: Participants receive a brief explanation of the study purpose at the end of the session.
+Measures and Data Collection
+•	Perceived duration: Participant’s estimate of elapsed time in seconds
+•	Temporal bias: Difference between actual elapsed time and perceived duration (using fixed duration for audio/video and recorded reading duration for text)
+•	Reading speed: Calculated from recorded reading duration and text length
+•	Immersion and engagement: Likert-scale ratings of absorption, enjoyment, attention, effort, and loss of time awareness
+•	Mind-wandering and arousal: Likert-scale self-reports
+•	Confidence and familiarity: Self-report ratings after each condition
+All responses and timing information are logged automatically by the web-based tool. Each participant contributes three sets of duration estimates and questionnaire responses. The total session duration is approximately 20–25 minutes.
+
+7)   Material & Apparatus
+Digital Material
+•	Web-based experimental tool
+•	Introductory / participant information text
+•	Digital consent form
+•	Short video stimulus (3 minutes, English)
+•	Audio-only podcast stimulus (3 minutes, English)
+•	Text-based stimulus (English, matched content)
+•	Time estimation input (seconds)
+•	Likert-scale questionnaires:
+o	Immersion and engagement
+o	Mind-wandering
+o	Arousal
+o	Confidence in time estimation
+o	Content familiarity
+•	Demographic questionnaire
+•	Caffeine consumption self-report
+•	Debriefing text
+Timing Tools
+•	Automatic timing system built into the web-based tool for measuring reading duration (no external timer required)
+Apparatus
+•	Participant device (desktop or laptop with web browser)
+•	Stable internet connection
+•	Headphones or speakers
+Experimenter Material
+•	Data logging and storage system (anonymized)
+	
+8)   Structure & Timeline
+Preparation required before the study starts:
+• Introductory / participant information text
+• Digital consent form
+• Demographic questionnaire uploaded to the web tool
+• Media stimuli and questionnaires uploaded to the web tool
+
+ Timeline of each task:
+ Subject	Time
+Introduction and consent	3-4 min
+Demographic questionnaire	2-3 min
+Media condition 1	4-5 min
+Media condition 2	4-5 min
+Media condition 3	4-5 min
+Debriefing	2-3 min
+ 
+Timeline of the experiment:
+Participants are advised to sit comfortably, minimize distractions, and use headphones where possible before starting the experiment.
+ Phase	What’s happening	Material	Time (min)
+Prep	Introductory text, consent, demographics	Info text, consent form, questionnaire	7
+P1	First media condition + responses	Media stimulus, questionnaires	5
+P2	Second media condition + responses	Media stimulus, questionnaires	5
+P3	Third media condition + responses	Media stimulus, questionnaires	5
+Wrap-up	Debriefing, Archiving logs, preparing next session	Debriefing text	3
+ 
+9)   Analysis
+The collected data will include perceived time estimates, questionnaire responses, and automatically measured reading durations. For each participant and condition, temporal bias will be calculated as the difference between perceived duration and actual elapsed time. For the video and audio conditions, the actual duration is fixed at three minutes, while for the text condition, the actual duration corresponds to the automatically recorded reading time measured by the system.
+Descriptive statistics will first be computed for all dependent variables, including perceived duration, temporal bias, and immersion and engagement measures. Data will be inspected for completeness and potential outliers before inferential analysis.
+To address RQ1, a within-subjects analysis of variance (ANOVA) will be conducted to test whether perceived duration and temporal bias differ significantly across the three media modalities (video, audio, and text). Where significant effects are found, pairwise comparisons will be used to identify differences between specific media types.
+To address RQ2, a within-subjects ANOVA will be performed on immersion and engagement scores to examine differences across media modalities.
+To address RQ3, correlation analyses will be conducted to assess the relationship between temporal bias and self-reported immersion and engagement measures across conditions. For the text condition, reading duration will be considered when interpreting temporal bias. Confounding variables such as prior familiarity with the content, media consumption habits, fatigue or boredom, and caffeine consumption will be examined descriptively and considered in supplementary analyses if needed.
+All analyses will be conducted using standard statistical software. The chosen analysis methods directly support the evaluation of the stated research questions and hypotheses.
+
+
+1. The website doesnt go full screen so still the clock on the system is visible (last time when you did it the website went full screen)
+2. Also I noticed that when article page is loaded, the timer starts automatically, and there was no instruction before saying that they should start reading, i think last time you said you will have a button to start reading and then the article appears and then participant can read. that idea was nice.
+3. At the last the calculated result is visible for the participant, you shall remove that as well.
+4. also for the podcast and video there is a sentence that is displayed like  "If playback stalls, stay on this screen. The questionnaire will unlock automatically after three minutes." do we need that??
+5. will it be possible for an automatic download of the excel file or the csv file once the participant finishes the experiment??

@@ -1,0 +1,13 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  # Allow VITE_GOOGLE_SHEETS_WEB_APP_URL to be included in build output
+  # This is intentional - it's a client-side environment variable
+  SECRETS_SCAN_OMIT_KEYS = "VITE_GOOGLE_SHEETS_WEB_APP_URL"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

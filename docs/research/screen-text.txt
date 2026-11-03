@@ -1,0 +1,156 @@
+Page 1
+
+Welcome
+Thank you for taking part in this study.
+In this experiment, you will experience three short activities, each presented in a different media format (video, audio, and text). After each activity, you will be asked to answer a few short questions about your experience.
+The entire session will take approximately 15–20 minutes.
+
+Important Instructions
+Please read the following carefully before continuing:
+•	During the experiment, focus naturally on the content, as you normally would.
+•	After each activity, you will be asked to estimate how long the activity lasted and answer a few questions about your experience.
+•	There are no right or wrong answers. We are interested only in your personal experience.
+•	Please do not check the time, use a phone, watch, or any other device that shows time during the experiment.
+•	When audio or video is presented, please use the provided headphones.
+•	If at any point you feel uncomfortable, you may stop the experiment without any negative consequences.
+When you are ready, click continue to proceed
+
+Continue Button
+
+
+
+
+
+
+
+Page 2
+Demographic Questions
+Before beginning the main tasks, please answer the following questions.
+Your responses will be used only for research purposes and will remain anonymous.
+1. Age
+What is your age (in years)?
+
+2. Media Usage Habits
+How frequently do you usually engage with the following media types?
+(Please select one option for each.)
+a) Short videos (e.g., online videos, reels, clips)
+☐ Very rarely
+☐ Rarely
+☐ Sometimes
+☐ Often
+☐ Very often
+b) Audio-only content (e.g., podcasts, audiobooks)
+☐ Very rarely
+☐ Rarely
+☐ Sometimes
+☐ Often
+☐ Very often
+c) Reading text content (e.g., articles, blogs, written stories)
+☐ Very rarely
+☐ Rarely
+☐ Sometimes
+☐ Often
+☐ Very often
+
+3. Caffeine Consumption
+Have you consumed caffeine today (e.g., coffee, tea, energy drinks)?
+☐ Yes
+☐ No
+(Optional follow-up shown only if “Yes” is selected)
+Approximately how long ago did you last consume caffeine?
+☐ Less than 1 hour ago
+☐ 1–3 hours ago
+☐ More than 3 hours ago
+
+4. Current State
+How alert do you feel right now?
+1 — Very tired
+2 — Tired
+3 — Neutral
+4 — Alert
+5 — Very alert
+
+[Button: Continue]
+
+
+
+
+
+
+
+
+
+Page 3
+Task Instructions
+In this experiment, you will complete three short activities, each presented in a different media format (video, audio, and text).
+Please read the following instructions carefully. These instructions apply to all parts of the experiment.
+
+During each activity
+•	Focus on the content naturally, as you normally would.
+•	Do not try to count time or use any strategies to track duration.
+•	Please do not check the time using a phone, watch, or any other device.
+
+After each activity
+•	You will be asked to estimate how long the activity lasted.
+•	You will then answer a few short questions about your experience (e.g., engagement, attention).
+There are no right or wrong answers. We are interested only in your personal perception.
+
+Important notes
+•	Some activities will include audio or video. Please ensure you are wearing your headphones when required.
+•	One activity involves reading text. Please read at your normal pace.
+•	If you feel uncomfortable at any point, you may stop the experiment without penalty.
+When you are ready, click Start to begin the first activity.
+
+[Button: Start]
+
+
+
+Questionnaire after each media played
+Time Estimation
+1. Perceived Duration
+Please estimate how long the previous activity lasted.
+Duration: ___ mins ___ seconds
+2. Confidence in Time Estimate
+How confident are you in your time estimate?
+1 — Not confident at all  2    3   4  5 -extremely confident
+
+Experience During the Activity
+Please indicate how much you agree or disagree with the following statements.
+3. Immersion
+I felt absorbed while experiencing the media.
+1 — Strongly disagree 2    3   4  5 -Strongly agree
+I became deeply focused on the media.
+1 — Strongly disagree 2    3   4  5 -Strongly agree
+I lost awareness of my surroundings while experiencing the media.
+1 — Strongly disagree 2    3   4  5 -Strongly agree
+I was unaware of things happening around me while experiencing the media.
+1 — Strongly disagree 2    3   4  5 -Strongly agree
+I lost track of time while experiencing the media.
+1 — Strongly disagree 2    3   4  5 -Strongly agree
+
+4. Engagement
+
+I found the media engaging.
+1 — Strongly disagree 2    3   4  5-Strongly agree
+I felt mentally involved while experiencing the media.
+1 — Strongly disagree 2    3   4  5-Strongly agree
+The media held my attention.
+1 — Strongly disagree 2    3   4  5-Strongly agree
+I was interested in the media throughout the experience.
+1 — Strongly disagree 2    3   4  5-Strongly agree
+I was motivated to keep paying attention to the media.
+1 — Strongly disagree 2    3   4  5-Strongly agree
+
+Additional Factors
+5. Familiarity	
+I was familiar with the topic or subject matter of the activity.
+1 — Not at all familiar 2    3   4  5 -Extremely familiar
+
+Debriefing (Last Page)
+Thank you for taking part in this study.
+The purpose of this experiment was to investigate how people perceive the passage of time when engaging with different types of media, such as video, audio-only content, and written text. Although each activity was similar in overall length, people often experience time differently depending on how engaging or immersive an activity feels.
+During the study, you were asked to estimate how long each activity lasted and to report your level of engagement, attention, and immersion. These measures allow us to examine whether subjective time perception differs across media types and whether feelings such as immersion, enjoyment, or mind-wandering are related to over- or under-estimation of time.
+Some aspects of the study were described in general terms at the beginning to avoid influencing your responses. This is a common and approved research practice when studying perception and experience.
+Your responses will be analyzed anonymously and used only for research purposes. There are no right or wrong answers, and individual responses cannot be used to draw conclusions about any single participant.
+If you have any questions about the study or would like further information, please contact the research team using the details provided by the experimenter.
+Thank you again for your valuable contribution.
